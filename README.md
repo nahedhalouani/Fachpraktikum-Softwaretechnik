@@ -21,7 +21,6 @@ Weitere Informationen:
 Siehe Zwischenpräsentation
 
 
-´
 ## Prüfer
 Prof. Dr.-Ing. Michael Weyrich, IAS
 
