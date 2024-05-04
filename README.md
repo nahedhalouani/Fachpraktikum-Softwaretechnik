@@ -1,5 +1,5 @@
 # Fachpraktikum "Softwaretechnik" Gruppe 3
-> Erstellung von Steuersoftware zur Navigierung eines Roboters durch einen Hinderniskurs unter simultaner Kartografierung des selbigen
+Erstellung von Steuersoftware zur Navigierung eines Roboters durch einen Hinderniskurs unter simultaner Kartografierung des selbigen
 
 
 ## Bedienung
