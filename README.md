@@ -10,12 +10,13 @@ Bitte lesen Sie die beigefügte Bedienungsanleitung.
 * JAVA SE - version 8
 * Eclipse IDE
 
-## Features (APs) (Zeitraum geplant)
-* Infrarotabstandssensoren auslesen (AP7) (15.12.20 - 21.01.21)
-* Strategie (AP8, 12) (15.12.20 - 19.01.21)
-* Kartografie (AP9, 13) (07.01.21 - 26.01.21)
-* Visualisierung (AP10, 14) (12.01.21 - 26.01.21)
-* Steuerung (AP11, 15) (19.01.21 - 02.02.21)
+
+## Features (Arbeitspakete) 
+* Infrarotabstandssensoren auslesen (AP7)
+* Strategie (AP8, 12) 
+* Kartografie (AP9, 13)
+* Visualisierung (AP10, 14) 
+* Steuerung (AP11, 15) 
 
 Weitere Informationen:
 Siehe Zwischenpräsentation
